@@ -1,0 +1,14 @@
+D:\LastProject\LoanManagementSystem\LoanManagementSystem.Migration\bin\Debug\net8.0\LoanManagementSystem.Migration.exe
+D:\LastProject\LoanManagementSystem\LoanManagementSystem.Migration\bin\Debug\net8.0\LoanManagementSystem.Migration.deps.json
+D:\LastProject\LoanManagementSystem\LoanManagementSystem.Migration\bin\Debug\net8.0\LoanManagementSystem.Migration.runtimeconfig.json
+D:\LastProject\LoanManagementSystem\LoanManagementSystem.Migration\bin\Debug\net8.0\LoanManagementSystem.Migration.dll
+D:\LastProject\LoanManagementSystem\LoanManagementSystem.Migration\bin\Debug\net8.0\LoanManagementSystem.Migration.pdb
+D:\LastProject\LoanManagementSystem\LoanManagementSystem.Migration\obj\Debug\net8.0\LoanManagementSystem.Migration.GeneratedMSBuildEditorConfig.editorconfig
+D:\LastProject\LoanManagementSystem\LoanManagementSystem.Migration\obj\Debug\net8.0\LoanManagementSystem.Migration.AssemblyInfoInputs.cache
+D:\LastProject\LoanManagementSystem\LoanManagementSystem.Migration\obj\Debug\net8.0\LoanManagementSystem.Migration.AssemblyInfo.cs
+D:\LastProject\LoanManagementSystem\LoanManagementSystem.Migration\obj\Debug\net8.0\LoanManagementSystem.Migration.csproj.CoreCompileInputs.cache
+D:\LastProject\LoanManagementSystem\LoanManagementSystem.Migration\obj\Debug\net8.0\LoanManagementSystem.Migration.dll
+D:\LastProject\LoanManagementSystem\LoanManagementSystem.Migration\obj\Debug\net8.0\refint\LoanManagementSystem.Migration.dll
+D:\LastProject\LoanManagementSystem\LoanManagementSystem.Migration\obj\Debug\net8.0\LoanManagementSystem.Migration.pdb
+D:\LastProject\LoanManagementSystem\LoanManagementSystem.Migration\obj\Debug\net8.0\LoanManagementSystem.Migration.genruntimeconfig.cache
+D:\LastProject\LoanManagementSystem\LoanManagementSystem.Migration\obj\Debug\net8.0\ref\LoanManagementSystem.Migration.dll
